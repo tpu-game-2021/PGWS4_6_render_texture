@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: RenderTexture  Material
+  m_Name: RenderTexture  Material 2
   m_Shader: {fileID: -6465566751694194690, guid: 43be0c1051aa4ea46ad1de401543b94d, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -33,7 +33,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Texture2D_RT:
-        m_Texture: {fileID: 8400000, guid: 0c79723681a38a14e91cc94acd638499, type: 2}
+        m_Texture: {fileID: 8400000, guid: 01216e419c6866d489c2d98fa1d5ae2b, type: 2}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
@@ -92,6 +92,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - _AlphaClip: 0
     - _Blend: 0
