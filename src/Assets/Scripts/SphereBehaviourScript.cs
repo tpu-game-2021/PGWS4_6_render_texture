@@ -13,6 +13,6 @@ public class SphereBehaviourScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position = new Vector3(0.5f * Mathf.Sin(0.2f * Time.time), 0.0f, 0.8f);
+        transform.localPosition = new Vector3(0.5f * Mathf.Sin(0.2f * Time.time), 0.0f, 0.8f);
     }
 }
