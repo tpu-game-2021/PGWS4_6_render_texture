@@ -5,6 +5,12 @@
     "m_Properties": [
         {
             "m_Id": "454cd49668f248d4a327e6fcf626515f"
+        },
+        {
+            "m_Id": "5b1ca5ecf1aa43de8530eb17fc84b678"
+        },
+        {
+            "m_Id": "5397b0bfab454d22b760dd1d0c2abd19"
         }
     ],
     "m_Keywords": [],
@@ -62,8 +68,8 @@
     ],
     "m_VertexContext": {
         "m_Position": {
-            "x": 91.0,
-            "y": -126.0
+            "x": 671.0001220703125,
+            "y": -1074.0
         },
         "m_Blocks": [
             {
@@ -79,8 +85,8 @@
     },
     "m_FragmentContext": {
         "m_Position": {
-            "x": 91.0,
-            "y": 74.0
+            "x": 670.0000610351563,
+            "y": -772.0
         },
         "m_Blocks": [
             {
@@ -333,6 +339,31 @@
 }
 
 {
+    "m_SGVersion": 1,
+    "m_Type": "UnityEditor.ShaderGraph.Internal.Vector1ShaderProperty",
+    "m_ObjectId": "5397b0bfab454d22b760dd1d0c2abd19",
+    "m_Guid": {
+        "m_GuidSerialized": "fd54bb18-0d73-4cbe-83c4-d32df10d5ac4"
+    },
+    "m_Name": "Height",
+    "m_DefaultRefNameVersion": 1,
+    "m_RefNameGeneratedByDisplayName": "Height",
+    "m_DefaultReferenceName": "Height",
+    "m_OverrideReferenceName": "",
+    "m_GeneratePropertyBlock": true,
+    "m_Precision": 0,
+    "overrideHLSLDeclaration": false,
+    "hlslDeclarationOverride": 0,
+    "m_Hidden": false,
+    "m_Value": 0.009999999776482582,
+    "m_FloatType": 1,
+    "m_RangeValues": {
+        "x": 0.0,
+        "y": 0.05000000074505806
+    }
+}
+
+{
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.SamplerStateMaterialSlot",
     "m_ObjectId": "5921359926e14d90aee39a70063a7ef3",
@@ -360,6 +391,31 @@
 }
 
 {
+    "m_SGVersion": 1,
+    "m_Type": "UnityEditor.ShaderGraph.Internal.Vector1ShaderProperty",
+    "m_ObjectId": "5b1ca5ecf1aa43de8530eb17fc84b678",
+    "m_Guid": {
+        "m_GuidSerialized": "877b1838-f871-4366-ba5c-a847afdde682"
+    },
+    "m_Name": "Interval",
+    "m_DefaultRefNameVersion": 1,
+    "m_RefNameGeneratedByDisplayName": "Interval",
+    "m_DefaultReferenceName": "Interval",
+    "m_OverrideReferenceName": "",
+    "m_GeneratePropertyBlock": true,
+    "m_Precision": 0,
+    "overrideHLSLDeclaration": false,
+    "hlslDeclarationOverride": 0,
+    "m_Hidden": false,
+    "m_Value": 10.0,
+    "m_FloatType": 1,
+    "m_RangeValues": {
+        "x": 0.0,
+        "y": 128.0
+    }
+}
+
+{
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "6c83b82adf75465d9f915e58c284a59d",
@@ -371,10 +427,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -512.0000610351563,
-            "y": 87.99999237060547,
+            "x": -158.0,
+            "y": -762.0,
             "width": 139.0,
-            "height": 34.0
+            "height": 34.000003814697269
         }
     },
     "m_Slots": [
@@ -551,10 +607,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -281.0000305175781,
-            "y": 87.00000762939453,
+            "x": 73.0000991821289,
+            "y": -763.0,
             "width": 208.0,
-            "height": 436.9999694824219
+            "height": 437.0000305175781
         }
     },
     "m_Slots": [
