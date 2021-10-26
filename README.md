@@ -12,12 +12,13 @@
 ![結果画像4](result4.gif)
 
 ## 自分なりにかっこいいシーン
-![結果画像](result.gif)
+![result](https://user-images.githubusercontent.com/55951546/138955166-6e690532-9591-4ee1-a885-3faf6f59d4a6.gif)
 
-![シェーダグラフ](node_graph.png)
+![image](https://user-images.githubusercontent.com/55951546/138955451-cd63273c-cb41-465d-9ce2-ba20a2c643ac.png)
+
 
 # 自分なりに変更した点
--
+-合わせ鏡出来そう...と思ったので合わせ鏡やってみました
 -
 -
 
