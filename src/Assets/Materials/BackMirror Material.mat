@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: BackMirror Material
-  m_Shader: {fileID: -6465566751694194690, guid: 2801fb4f6a3b28449bbb976fddf1259a, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 08ae78542f5be1b45a5310ba5e033b62, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -59,8 +59,16 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_162a8cfe646f4ac4a73ae8142175254d_Texture_1:
+        m_Texture: {fileID: 8400000, guid: 00de643c0dad2b8459407c1f1a1b7eb1, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_5d22a927c7aa495a900be9d9fe056039_Texture_1:
         m_Texture: {fileID: 8400000, guid: 52a842b7e46fa1c4c96a835c4b351b56, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_d14a431b6bec4eda827aa6ba56bb41d5_Texture_1:
+        m_Texture: {fileID: 8400000, guid: 5e5aeee7b2ad80c4e865a155e6b48451, type: 2}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
@@ -79,6 +87,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - _AlphaClip: 0
     - _Blend: 0
