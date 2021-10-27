@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Water Material
-  m_Shader: {fileID: -6465566751694194690, guid: 39d0c693c1e67d6448cd317c2b972eb1, type: 3}
+  m_Name: TextureMat2
+  m_Shader: {fileID: -6465566751694194690, guid: 87427b67336db82499af3af533bd1876, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -81,8 +81,6 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - Height: 0.01
-    - Vector1_115ff0ef03ba4110a78628428f5d609e: 0.002
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -115,7 +113,7 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &5974757288288570385
+--- !u!114 &2654789321609690068
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
